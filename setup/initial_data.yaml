@@ -1,0 +1,20 @@
+- name: Berlin Data Center West
+  slug: berlin_dc_west
+  status: active
+  physical_address: "Hans-Grohe-Straße 1, 10557 Berlin, Germany"
+- name: Berlin Data Center East
+  slug: berlin_dc_east
+  status: planned
+  physical_address: "Müllerstraße 161, 13353 Berlin, Germany"
+- name: Berlin Campus Network
+  slug: berlin_campus_network
+  status: active
+  physical_address: "Friedrichstraße 43-45, 10117 Berlin, Germany"
+- name: Berlin R&D Lab
+  slug: berlin_rnd_lab
+  status: planned
+  physical_address: "Am Kupfergraben 5, 10117 Berlin, Germany"
+
+
+
+
